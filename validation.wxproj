@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<winginx>
+  <project>
+    <name>validation</name>
+    <url>http://validation/</url>
+    <root>home/validation</root>
+  </project>
+</winginx>
